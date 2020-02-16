@@ -1,0 +1,1 @@
+# inherited_widget_sample-inherited_widget
